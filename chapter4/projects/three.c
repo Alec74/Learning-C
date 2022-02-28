@@ -1,4 +1,4 @@
-/* Reverse two digits input by user */
+/* (4.03) Reverse three digits input by user */
 #include <stdio.h>
 
 int main(void)
